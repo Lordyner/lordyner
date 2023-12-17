@@ -1,4 +1,19 @@
 ### Hi there 👋
+💫 About Me:
+👨‍💻 Full Stack Developer
+💼 Open To Job Opportunities
+🌎 thomasandrelubin.fr
+
+🌐 Socials:
+LinkedIn
+
+💻 Tech Stack:
+HTML5 CSS3 JavaScript SASS React Next.js Java SpringBoot
+
+📊 GitHub Stats:
+
+
+
 
 <!--
 **Lordyner/lordyner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
